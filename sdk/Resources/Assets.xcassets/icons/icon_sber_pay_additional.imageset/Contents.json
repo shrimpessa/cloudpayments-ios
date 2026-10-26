@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "method=sber pay, type=light.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

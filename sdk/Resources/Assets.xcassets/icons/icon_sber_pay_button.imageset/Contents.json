@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sberPay.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "icon_sbp_logo.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
